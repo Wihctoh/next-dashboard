@@ -5,7 +5,7 @@ import { Input } from "@/components/ui/input";
 
 export default function Home() {
   return (
-    <section className="flex border-2 px-5">
+    <section className="flex px-5">
       <div className="mx-auto flex h-screen w-full max-w-6xl justify-between border-2">
         <div className="hidden flex-1 bg-black p-5 md:flex">
           <div className="text-white">
